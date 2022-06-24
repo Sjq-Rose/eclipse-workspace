@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ExternalProject"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="721076433020220427.zip"/>
+			<item value="721076433020220420.zip"/>
+			<item value="721076433020220413.zip"/>
+			<item value="721076433020220406.zip"/>
+			<item value="721076433020220330.zip"/>
+			<item value="D:\Users\1\eclipse-workspace\721076433020220330.zip"/>
+			<item value="D:\Users\1\eclipse-workspace\721076433020211213.zip"/>
+			<item value="D:\Users\1\eclipse-workspace\7210764330石佳琪.zip"/>
+			<item value="7210764330石佳琪.zip"/>
+			<item value="C:\Users\1\Desktop\shijiaqi1120\7210764330石佳琪.zip"/>
+			<item value="D:\Users\1\eclipse-workspace\721076433020211128.zip"/>
+			<item value="D:\Users\1\eclipse-workspace\721076433020211126.zip"/>
+			<item value="D:\Users\1\eclipse-workspace\721076433020211117.zip"/>
+			<item value="D:\Users\1\eclipse-workspace\721076433020211102.zip"/>
+			<item value="D:\Users\1\eclipse-workspace\721076433020211029.zip"/>
+		</list>
+	</section>
+	<section name="FileSystemExportWizard">
+		<item key="WizardFileSystemResourceExportPage1.STORE_OVERWRITE_EXISTING_FILES_ID" value="false"/>
+		<item key="WizardFileSystemResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="false"/>
+		<item key="WizardFileSystemResourceExportPage1.STORE_RESOLVE_LINKED_RESOURCES_ID" value="false"/>
+		<list key="WizardFileSystemResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="7210764330石佳琪"/>
+			<item value="C:\Users\1\Desktop\7210764330石佳琪\shijiaqi1120"/>
+			<item value="C:\Users\1\Desktop\shijiaqi1120\shijiaqi1120"/>
+			<item value="C:\Users\1\Desktop\7210764330石佳琪"/>
+		</list>
+	</section>
+	<section name="PreferencesExportWizard">
+	</section>
+	<section name="ZipFileImportWizard">
+	</section>
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+	</section>
+</section>
